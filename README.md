@@ -12,10 +12,10 @@ We utilized the MNIST dataset, which is a widely used benchmark dataset in the f
 
 ## Implementation
 
-Our implementation of the KNN algorithm was applied directly to the MNIST dataset. We achieved an accuracy of 96% on the test set, demonstrating the effectiveness of our approach.
+Our implementation of the KNN algorithm was applied directly to the MNIST dataset. We achieved an accuracy of 96.87% on the test set, demonstrating the effectiveness of our approach.
 
 ## Repository Structure
 
 - `data/`: Directory containing the MNIST dataset.
-- `knn_digit_classification.ipynb`: Jupyter Notebook containing the code for implementing KNN algorithm and digit classification.
+- `knn_mnist_data_tuhin_patra_version_no1.ipynb`: Jupyter Notebook containing the code for implementing KNN algorithm and digit classification.
 - `README.md`: You are here!
