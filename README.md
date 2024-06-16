@@ -1,4 +1,4 @@
-# Digit Classification Project
+# Digit Classification Using KNN From Scratch
 
 In this project, we aim to classify digits ranging from 0 to 9 using the MNIST dataset.
 
